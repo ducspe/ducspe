@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋 Danu here. I love creating things, especially with machine learning and neural nets... 🙂
 
 <!--
 **ducspe/ducspe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
